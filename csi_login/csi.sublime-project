@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/shreyas/Sites/CSI 2/csi_login"
+		}
+	],
+	"settings":
+	{
+		"xdebug":
+		{
+			"url": "http://localhost/~shreyas/CSI 2/csi_login/index.php"
+		}
+	}
+
+}

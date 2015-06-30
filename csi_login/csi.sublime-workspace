@@ -1,0 +1,503 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"name",
+				"name-err"
+			],
+			[
+				"email",
+				"email-err"
+			],
+			[
+				"message",
+				"message"
+			],
+			[
+				"j",
+				"jsoncontent"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"year",
+				"yearbook-background"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"v",
+				"visible"
+			],
+			[
+				"positio",
+				"position"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"hei",
+				"max-height"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"img",
+				"img-wrapper"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"a",
+				"addDomListener"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "classes/Validate.php",
+			"settings":
+			{
+				"buffer_size": 1413,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "register1.php",
+			"settings":
+			{
+				"buffer_size": 3966,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "classes/Input.php",
+			"settings":
+			{
+				"buffer_size": 445,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "classes/Token.php",
+			"settings":
+			{
+				"buffer_size": 430,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "core/init.php",
+			"settings":
+			{
+				"buffer_size": 1030,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "classes/Session.php",
+			"settings":
+			{
+				"buffer_size": 700,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/shreyas/Sites/CSI 2/csi_login/csi.sublime-project",
+		"/Users/shreyas/Sites/CSI 2/CSI2.sublime-project",
+		"/Users/shreyas/Sites/CSI 2/CSI2.sublime-workspace",
+		"/Users/shreyas/Sites/test2/untitled.sublime-project",
+		"/Users/shreyas/Sites/test2/index.php",
+		"/Users/shreyas/Sites/CSI 2/index.php",
+		"/Users/shreyas/Sites/CSI 2/csi2.sublime-project",
+		"/Users/shreyas/Sites/CSI 2/csi_login/CSI 2.sublime-project",
+		"/Users/shreyas/Sites/test/test.sublime-project",
+		"/Users/shreyas/Sites/test/test.sublime-workspace",
+		"/Users/shreyas/Sites/test/index.php",
+		"/Users/shreyas/Sites/CSI 2/csi_login/classes/Redirect.php",
+		"/Users/shreyas/Sites/CSI 2/csi_login/classes/Session.php",
+		"/Users/shreyas/Sites/CSI 2/csi_login/classes/User.php",
+		"/Users/shreyas/Sites/CSI 2/csi_login/register1.php",
+		"/Users/shreyas/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/shreyas/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/shreyas/Sites/swashiengers/new_user.php",
+		"/Users/shreyas/Sites/swashiengers/includes_form/get6.php",
+		"/Users/shreyas/Sites/swashiengers/new_page.php",
+		"/Users/shreyas/Desktop/events_json.php",
+		"/Users/shreyas/Desktop/includes/events.json",
+		"/Users/shreyas/Desktop/Wistia Yearbook   Wistia.html",
+		"/Users/shreyas/Desktop/Contact Our Digital Marketing Group   Mostly Serious_files/main.js",
+		"/Users/shreyas/engifest-web/events_new/index.html",
+		"/Users/shreyas/events_timeline/index.html",
+		"/Users/shreyas/NetBeansProjects/UVa/build/Debug/CLang-MacOSX/706.o.d",
+		"/Users/shreyas/Documents/workspace/baba/Release/abab/abc.d",
+		"/Users/shreyas/Desktop/map file/map.htm",
+		"/Users/shreyas/Desktop/nightcrawlerfilm.com/css/style.css",
+		"/Users/shreyas/Desktop/nightcrawlerfilm.com/css/royalslider.css",
+		"/Users/shreyas/Desktop/events/events.php",
+		"/Users/shreyas/Desktop/nightcrawlerfilm.com/js/main.min.js",
+		"/Users/shreyas/Desktop/second",
+		"/Users/shreyas/Desktop/map.html",
+		"/Users/shreyas/Shreyas/Tutorials/Lynda. JavaScript for Web Designers/Ex_Files_JS_for_WD/Exercise Files/0401/start/about.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"body",
+			"<div class=\"wgh_inner_container\">\n      <div id=\"wgh_logo_wrapper\">\n        <a id=\"wgh_logo\" href=\"http://wistia.com/?__hstc=753710.199887fce400082c03add28eba8ca8a8.1421517459900.1421517459900.1421517459900.1&amp;__hssc=753710.1.1421517459900&amp;__hsfp=2001301329\" class=\"white\">Wistia</a>\n      </div><div id=\"wgh_subnav\">\n        <nav id=\"wgh_section_product\" data-section=\"product\" class=\"wgh_visible\">\n          <a href=\"http://wistia.com/product?__hstc=753710.199887fce400082c03add28eba8ca8a8.1421517459900.1421517459900.1421517459900.1&amp;__hssc=753710.1.1421517459900&amp;__hsfp=2001301329\" data-subsection=\"features\">\n            Features\n          <div class=\"wgh_subsection_tooth\"></div><div class=\"wgh_subsection_tooth\"></div></a><a href=\"http://wistia.com/pricing?__hstc=753710.199887fce400082c03add28eba8ca8a8.1421517459900.1421517459900.1421517459900.1&amp;__hssc=753710.1.1421517459900&amp;__hsfp=2001301329\" data-subsection=\"pricing\">\n            Pricing\n          <div class=\"wgh_subsection_tooth\"></div><div class=\"wgh_subsection_tooth\"></div></a>\n          <span class=\"wgh_subsection_tooth\"><div class=\"wgh_subsection_tooth\"></div><div class=\"wgh_subsection_tooth\"></div></span>\n        </nav>\n        <nav id=\"wgh_section_company\" data-section=\"company\" class=\"wgh_hidden\">\n          <a href=\"./Wistia Yearbook   Wistia_files/Wistia Yearbook   Wistia.html\" data-subsection=\"team\" class=\"wgh_current\">\n            Team\n          <div class=\"wgh_subsection_tooth\"></div><div class=\"wgh_subsection_tooth\"></div></a><a href=\"http://boards.greenhouse.io/wistia\" data-subsection=\"jobs\">\n            Jobs\n          <div class=\"wgh_subsection_tooth\"></div><div class=\"wgh_subsection_tooth\"></div></a><a href=\"http://wistia.com/wistiafest?__hstc=753710.199887fce400082c03add28eba8ca8a8.1421517459900.1421517459900.1421517459900.1&amp;__hssc=753710.1.1421517459900&amp;__hsfp=2001301329\" data-subsection=\"wistiafest\">\n            Wistiafest\n          <div class=\"wgh_subsection_tooth\"></div><div class=\"wgh_subsection_tooth\"></div></a>\n          <span class=\"wgh_subsection_tooth\"><div class=\"wgh_subsection_tooth\"></div><div class=\"wgh_subsection_tooth\"></div></span>\n        </nav>\n        <nav id=\"wgh_section_learning\" data-section=\"learning\" class=\"wgh_hidden\">\n          <a href=\"http://wistia.com/learning?__hstc=753710.199887fce400082c03add28eba8ca8a8.1421517459900.1421517459900.1421517459900.1&amp;__hssc=753710.1.1421517459900&amp;__hsfp=2001301329\" data-subsection=\"learning_center\">\n            Learning Center\n          <div class=\"wgh_subsection_tooth\"></div><div class=\"wgh_subsection_tooth\"></div></a><a href=\"http://wistia.com/blog?__hstc=753710.199887fce400082c03add28eba8ca8a8.1421517459900.1421517459900.1421517459900.1&amp;__hssc=753710.1.1421517459900&amp;__hsfp=2001301329\" data-subsection=\"blog\">\n            Blog\n          <div class=\"wgh_subsection_tooth\"></div><div class=\"wgh_subsection_tooth\"></div></a><a href=\"http://wistia.com/community?__hstc=753710.199887fce400082c03add28eba8ca8a8.1421517459900.1421517459900.1421517459900.1&amp;__hssc=753710.1.1421517459900&amp;__hsfp=2001301329\" data-subsection=\"community\">\n            Community\n          <div class=\"wgh_subsection_tooth\"></div><div class=\"wgh_subsection_tooth\"></div></a>\n          <span class=\"wgh_subsection_tooth\"><div class=\"wgh_subsection_tooth\"></div><div class=\"wgh_subsection_tooth\"></div></span>\n        </nav>\n        <nav id=\"wgh_section_help\" data-section=\"help\" class=\"wgh_hidden\">\n          <a href=\"http://wistia.com/doc?__hstc=753710.199887fce400082c03add28eba8ca8a8.1421517459900.1421517459900.1421517459900.1&amp;__hssc=753710.1.1421517459900&amp;__hsfp=2001301329\" data-subsection=\"doc\">\n            Documentation\n          <div class=\"wgh_subsection_tooth\"></div><div class=\"wgh_subsection_tooth\"></div></a><a href=\"http://status.wistia.com/?__hstc=753710.199887fce400082c03add28eba8ca8a8.1421517459900.1421517459900.1421517459900.1&amp;__hssc=753710.1.1421517459900&amp;__hsfp=2001301329\" data-subsection=\"status\">\n            Status\n          <div class=\"wgh_subsection_tooth\"></div><div class=\"wgh_subsection_tooth\"></div></a><a href=\"http://wistia.com/doc/wistia-basics?__hstc=753710.199887fce400082c03add28eba8ca8a8.1421517459900.1421517459900.1421517459900.1&amp;__hssc=753710.1.1421517459900&amp;__hsfp=2001301329\" data-subsection=\"help-videos\">\n            Help Videos\n          <div class=\"wgh_subsection_tooth\"></div><div class=\"wgh_subsection_tooth\"></div></a><a href=\"http://wistia.com/support/faq?__hstc=753710.199887fce400082c03add28eba8ca8a8.1421517459900.1421517459900.1421517459900.1&amp;__hssc=753710.1.1421517459900&amp;__hsfp=2001301329\" data-subsection=\"help-desk\">\n            FAQ\n          <div class=\"wgh_subsection_tooth\"></div><div class=\"wgh_subsection_tooth\"></div></a>\n          <span class=\"wgh_subsection_tooth\"><div class=\"wgh_subsection_tooth\"></div><div wgh",
+			"auth",
+			"addEventListner('mouseover',",
+			"addeventlistner('mouseover',",
+			"left",
+			"150",
+			"300",
+			"350"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"onclick=",
+			"top",
+			"-50",
+			"-150",
+			"150"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "classes/Validate.php",
+					"settings":
+					{
+						"buffer_size": 1413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "register1.php",
+					"settings":
+					{
+						"buffer_size": 3966,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								3966
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 80.0,
+						"translation.y": 1217.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "classes/Input.php",
+					"settings":
+					{
+						"buffer_size": 445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "classes/Token.php",
+					"settings":
+					{
+						"buffer_size": 430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "core/init.php",
+					"settings":
+					{
+						"buffer_size": 1030,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "classes/Session.php",
+					"settings":
+					{
+						"buffer_size": 700,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.7,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.xdebug_inspect":
+	{
+		"height": 94.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
